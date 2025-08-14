@@ -1,0 +1,13 @@
+screen.buffer vs stdio vs serial file
+------------------------
+screen buffer
+mem>output
+keybord>input
+------------------------
+stdio
+>file>output>stdout
+>file>input>stdin
+------------------------
+serial file
+file>input>output>data
+
