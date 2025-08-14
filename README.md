@@ -1,2 +1,1 @@
-# wasm.builder.go.language
-go language wasm builder file format
+sample of screen buffer vs file stdout
