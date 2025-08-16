@@ -14,4 +14,29 @@ There is also a third channel: standard error — stderr, with file descriptor 2
 
 By default, these three special files — stdin (0), stdout (1), and stderr (2) — are connected to the console. However, they can be redirected through pipes to other files, devices, serial consoles, or even sent across the internet. This flexibility makes them one of the fundamental building blocks of any operating system’s input/output system.
 
+Redirection of the Three Standard Files
+
+Every program in an operating system relies on three basic files:
+
+Standard Input (stdin, file descriptor 0)
+
+Standard Output (stdout, file descriptor 1)
+
+Standard Error (stderr, file descriptor 2)
+
+
+By default, these streams are connected to the console. However, an operating system can redirect them in different ways:
+
+Redirect input or output to a file on disk or another storage drive.
+
+Send or receive data through the network using system drivers.
+
+Use pipes to connect the output of one program directly to the input of another.
+
+Apply redirection through command-line options specified by the user.
+
+Automate redirection within batch files or program macros.
+
+
+This flexibility allows programs to work seamlessly not only with the console but also with files, devices, and remote systems. Redirection is one of the core mechanisms that gives operating systems their power and versatility.
 
