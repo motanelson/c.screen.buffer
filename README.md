@@ -40,3 +40,11 @@ Automate redirection within batch files or program macros.
 
 This flexibility allows programs to work seamlessly not only with the console but also with files, devices, and remote systems. Redirection is one of the core mechanisms that gives operating systems their power and versatility.
 
+Serial and Parallel Keyboards and Monitors in Early Computing
+
+In the early days of computing, keyboards and monitors were often connected through serial or parallel interfaces. These devices could be redirected to act as replacements for the system console, allowing computers to interact with external terminals and other machines.
+
+A computer could send its output to another computer, to a serial or parallel keyboard, or to a connected terminal. In the same way, it could also receive input from these devices. This made it possible for standard input (stdin) and standard output (stdout) to be redirected to a serial or parallel device instead of the local console.
+
+This concept remains fundamental even today. Modern operating systems still support redirection of input and output — not just to local devices, but also across networks. With modern command-line tools, the same principle that once allowed communication through serial or parallel ports now enables redirection over the internet or a home network.
+
