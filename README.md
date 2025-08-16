@@ -48,3 +48,19 @@ A computer could send its output to another computer, to a serial or parallel ke
 
 This concept remains fundamental even today. Modern operating systems still support redirection of input and output — not just to local devices, but also across networks. With modern command-line tools, the same principle that once allowed communication through serial or parallel ports now enables redirection over the internet or a home network.
 
+Batch Programs in Early Computing
+
+In the early days of computing, when resources were very limited, one powerful solution was the use of batch programs. A batch program is simply a list of commands or tasks written in a file and executed automatically by the operating system.
+
+This approach allowed users to:
+
+Run multiple tasks in sequence without manual intervention.
+
+Save time by automating repetitive operations.
+
+Make efficient use of scarce system resources.
+
+
+For many early computer systems, batch programming was a valuable resource that extended the capabilities of both users and machines. Instead of typing commands one by one, users could prepare a script in advance and let the system handle the work.
+
+Even today, batch files and scripts remain an essential tool for automation, system management, and software development — a legacy of those first days of computing.
