@@ -9,6 +9,8 @@ https://honeydatax.wixsite.com/programing-language
 
 https://honeydatax.wixsite.com/operation_systems
 
+https://honeydatax.wixsite.com/simulator-emulator
+
 Standard Input and Output: The Basic Engine of an Operating System
 
 At the core of every operating system lies a simple yet powerful concept: standard input and output. These are the basic channels through which the system receives and sends data.
