@@ -37,8 +37,12 @@ void pfprintf(char *s,int f1){
 void pprintf(char *s){
     pfprintf(s,1);
 }
+void pperror(char *s){
+    pfputs(s,2);
+}
 int main(){
     char *s="\033c\033[43;30m\nhello world...\n";
     pputs(s);
-    pprintf("xx%xxxx%xx\n");   
+    pprintf("xx%xxxx%xx\n");
+    pperror("err:>simulate a error\n");  
 }
