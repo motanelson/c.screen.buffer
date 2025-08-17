@@ -2,6 +2,9 @@ sample of screen buffer vs file stdout
 
 emulates soft std i/o
 
+
+https://honeydatax.wixsite.com/program-stdio
+
 Standard Input and Output: The Basic Engine of an Operating System
 
 At the core of every operating system lies a simple yet powerful concept: standard input and output. These are the basic channels through which the system receives and sends data.
